@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Okutepa
-- 👀 I’m interested in Mobile App Development
-- 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
